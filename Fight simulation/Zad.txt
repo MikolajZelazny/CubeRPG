@@ -1,0 +1,3 @@
+Pikeman extends Weapon(if this.type=pika? 30% more DMG.
+Weapon 10 Dmg, (0,5 + For CritChance)
+if( PikemanCC + WeaponCC + BuildingBonusCC > (~~(10*Math.random())? Dmg*3

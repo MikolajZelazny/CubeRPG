@@ -1,0 +1,25 @@
+RPG + RTS + HOMM
+
+var critHitChance = this.critValue - (10*random())
+if (critHitChance>0) {
+DMG*5
+}
+
+Classes:
+Infrantry //ForExmp. peasant, pikeman
+Weapon //fe. DMG and critValue (pike + pikeman = pike + 30% DMG)
+
+
+Fight Simulator
+
+
+
+
+łażenie po mapie kwadracikiem (np. bohater)
+podejście do kwadrata z ludźmi zależnie od ich nastawienia pozwala zrekrutować lub rozpocząć walkę.
+nowa jednostka to nowy kwadracik na wybraną pozycje względem kwadrata dowódcy.
+
+Bitwa to stykanie się kwadracikami (każde zetknięcie symuluje walkę 10 jednostke z danego wkadratu )
+
+
+Wyeliminowanie wrogów z sektoru uprawnia do budowy muru który uprawnia do budowy budynków premii lub ekenomicznych/
